@@ -34,6 +34,7 @@
   },
   "homepage": "https://github.com/tsuyoshiwada/jp-prefecture",
   "devDependencies": {
+    "dtsmake": "0.0.10",
     "eslint": "^2.4.0",
     "onchange": "^2.1.2",
     "qunit-cli": "^0.2.0",
